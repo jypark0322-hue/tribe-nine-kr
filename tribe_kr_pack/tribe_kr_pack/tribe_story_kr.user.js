@@ -14,7 +14,7 @@
 
   // 반드시 자신의 GitHub Pages 주소로 바꿔주세요.
   // 예: https://yourname.github.io/tribe-nine-kr
-  const BASE_URL = 'https://github.com/jypark0322-hue/tribe-nine-kr';
+  const BASE_URL = 'https://jypark0322-hue.github.io/tribe-nine-kr';
 
   const DEBUG = true;
   const CACHE_BUSTER = 'v=20260502a';
